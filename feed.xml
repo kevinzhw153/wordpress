@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+
+-<channel>
+
+<title>zhw’s blog</title>
+
+<atom:link type="application/rss+xml" rel="self" href="https://kevinzhw.home.blog/feed/"/>
+
+<link>https://kevinzhw.home.blog</link>
+
+<description>一只蒟蒻的空间</description>
+
+<lastBuildDate>Thu, 18 Feb 2021 06:42:33 +0000</lastBuildDate>
+
+<language>zh-CN</language>
+
+<sy:updatePeriod>hourly </sy:updatePeriod>
+
+<sy:updateFrequency>1 </sy:updateFrequency>
+
+<generator>http://wordpress.com/</generator>
+
+
+-<image>
+
+<url>https://kevinzhwhome.files.wordpress.com/2021/01/wp-1610494248572.jpg?w=32</url>
+
+<title>zhw’s blog</title>
+
+<link>https://kevinzhw.home.blog</link>
+
+<width>32</width>
+
+<height>32</height>
+
+</image>
+
+<cloud protocol="http-post" registerProcedure="" path="/?rsscloud=notify" port="80" domain="kevinzhw.home.blog"/>
+
+<atom:link title="zhw’s blog" type="application/opensearchdescription+xml" rel="search" href="https://kevinzhw.home.blog/osd.xml"/>
+
+<atom:link rel="hub" href="https://kevinzhw.home.blog/?pushpress=hub"/>
+
+
+-<item>
+
+<title>近期，本站会分享一些学习资料</title>
+
+<link>https://kevinzhw.home.blog/2021/02/14/%e8%bf%91%e6%9c%9f%ef%bc%8c%e6%9c%ac%e7%ab%99%e4%bc%9a%e5%88%86%e4%ba%ab%e4%b8%80%e4%ba%9b%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99/</link>
+
+<comments>https://kevinzhw.home.blog/2021/02/14/%e8%bf%91%e6%9c%9f%ef%bc%8c%e6%9c%ac%e7%ab%99%e4%bc%9a%e5%88%86%e4%ba%ab%e4%b8%80%e4%ba%9b%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Sun, 14 Feb 2021 12:21:16 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[其他]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/2021/02/14/%e8%bf%91%e6%9c%9f%ef%bc%8c%e6%9c%ac%e7%ab%99%e4%bc%9a%e5%88%86%e4%ba%ab%e4%b8%80%e4%ba%9b%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99/</guid>
+
+
+-<description>
+
+-<![CDATA[近期，本站会分享一些学习资料密码为 study 也欢迎大家来贡献资料]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<p>近期，本站会分享一些学习资料密码为 study 也欢迎大家来贡献资料</p>
+
+
+
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://kevinzhw.home.blog/study/" style="border-radius:10px;" rel="">点击这里进入</a></div>
+</div>
+]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/02/14/%e8%bf%91%e6%9c%9f%ef%bc%8c%e6%9c%ac%e7%ab%99%e4%bc%9a%e5%88%86%e4%ba%ab%e4%b8%80%e4%ba%9b%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+</item>
+
+
+-<item>
+
+<title>新年祝福</title>
+
+<link>https://kevinzhw.home.blog/2021/02/11/2021bestwishes/</link>
+
+<comments>https://kevinzhw.home.blog/2021/02/11/2021bestwishes/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Thu, 11 Feb 2021 06:47:07 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=280</guid>
+
+
+-<description>
+
+-<![CDATA[祝大家在Zn（锌）的Ir（铱）年里: 砷（As）锑(Sb)健康、活力如Cs（铯）、Sn（锡）笑颜开、Au（金） &#8230; <a href="https://kevinzhw.home.blog/2021/02/11/2021bestwishes/" class="more-link">继续阅读<span class="screen-reader-text">“新年祝福”</span></a>]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<p>祝大家在Zn（锌）的Ir（铱）年里: 砷（As）锑(Sb)健康、活力如Cs（铯）、Sn（锡）笑颜开、Au（金）榜题名、Mg（镁）梦成真、稳重如Os(锇)、家庭和Mo（钼）、幸F（氟）Mg（镁）满、Zn想事成(锌)、万事如Yb（镱）、笑口常开如N2O（笑气），海容万物如HNO3、H2SO4（王水）让H2O2（过氧化氢）漂白去年的不开心,让H2SO4(浓硫酸)吸纳今年的好运!</p>
+]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/02/11/2021bestwishes/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day8(2021.2.11)</title>
+
+<link>https://kevinzhw.home.blog/2021/02/11/testday8/</link>
+
+<comments>https://kevinzhw.home.blog/2021/02/11/testday8/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Thu, 11 Feb 2021 06:45:38 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=275</guid>
+
+
+-<description>
+
+-<![CDATA[今天是除夕，祝大家除夕快乐！ 判断 黄金性质稳定，不能和任何一种单一酸反应（）]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[<h2>今天是除夕，祝大家除夕快乐！</h2>
+
+
+<p>判断</p>
+
+
+
+<p>黄金性质稳定，不能和任何一种单一酸反应（）</p>
+
+
+<div class="align crowdsignal-poll-wrapper" data-crowdsignal-poll="{&quot;pollId&quot;:&quot;59cf53b0-422a-42c7-a8a8-72db2af1c230&quot;,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;answers&quot;:[{&quot;text&quot;:&quot;\u5bf9&quot;,&quot;answerId&quot;:&quot;80d2f663-a191-43b4-8205-f3a7bf943d9c&quot;},{&quot;text&quot;:&quot;\u9519&quot;,&quot;answerId&quot;:&quot;040d9605-a0d7-42ef-8762-5fa02981e8d1&quot;},[]],&quot;isMultipleChoice&quot;:false,&quot;note&quot;:&quot;&quot;,&quot;submitButtonLabel&quot;:&quot;\u63d0\u4ea4&quot;,&quot;confirmMessageType&quot;:&quot;results&quot;,&quot;borderWidth&quot;:2,&quot;borderRadius&quot;:0,&quot;hasBoxShadow&quot;:false,&quot;hasOneResponsePerComputer&quot;:false,&quot;randomizeAnswers&quot;:false,&quot;width&quot;:100,&quot;pollStatus&quot;:&quot;open&quot;,&quot;closedPollState&quot;:&quot;show-results&quot;,&quot;hideBranding&quot;:false,&quot;buttonAlignment&quot;:&quot;list&quot;,&quot;apiPollData&quot;:{&quot;id&quot;:10742399,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;note&quot;:&quot;&quot;,&quot;settings&quot;:{&quot;title&quot;:&quot;&quot;,&quot;after_vote&quot;:&quot;results&quot;,&quot;after_message&quot;:&quot;&quot;,&quot;randomize_answers&quot;:false,&quot;restrict_vote_repeat&quot;:false,&quot;captcha&quot;:false,&quot;multiple_choice&quot;:false,&quot;redirect_url&quot;:&quot;&quot;,&quot;close_status&quot;:&quot;open&quot;,&quot;close_after&quot;:false},&quot;answers&quot;:[{&quot;answer_text&quot;:&quot;\u5bf9&quot;,&quot;id&quot;:49629486,&quot;client_id&quot;:&quot;80d2f663-a191-43b4-8205-f3a7bf943d9c&quot;},{&quot;answer_text&quot;:&quot;\u9519&quot;,&quot;id&quot;:49629487,&quot;client_id&quot;:&quot;040d9605-a0d7-42ef-8762-5fa02981e8d1&quot;}],&quot;client_id&quot;:&quot;59cf53b0-422a-42c7-a8a8-72db2af1c230&quot;}}"></div>
+
+
+<p></p>
+]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/02/11/testday8/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day7(2021.2.8)</title>
+
+<link>https://kevinzhw.home.blog/2021/02/08/testday7/</link>
+
+<comments>https://kevinzhw.home.blog/2021/02/08/testday7/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Mon, 08 Feb 2021 09:10:32 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=251</guid>
+
+
+-<description>
+
+-<![CDATA[如何用硫酸亚铁制取铁（只允许用初中常见物质） 如有方法请发往 kevinzhw153@126.com 谢谢]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<p>如何用硫酸亚铁制取铁（只允许用初中常见物质）</p>
+
+
+
+<p>如有方法请发往 kevinzhw153@126.com 谢谢</p>
+
+
+
+<p></p>
+]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/02/08/testday7/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day6（2021.2.4）</title>
+
+<link>https://kevinzhw.home.blog/2021/02/04/testday6/</link>
+
+<comments>https://kevinzhw.home.blog/2021/02/04/testday6/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Thu, 04 Feb 2021 09:13:37 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=247</guid>
+
+
+-<description>
+
+-<![CDATA[]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<figure class="wp-block-image size-large"><img src="https://kevinzhw153.github.io/images/testday6.jpg" alt="" /></figure>
+
+
+<div class="align crowdsignal-poll-wrapper" data-crowdsignal-poll="{&quot;pollId&quot;:&quot;ba5d0cae-e9e1-4655-be3f-c5a10eec7741&quot;,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;answers&quot;:[{&quot;text&quot;:&quot;A&quot;,&quot;answerId&quot;:&quot;72256ead-afa8-4a66-a397-316dccb01c84&quot;},{&quot;text&quot;:&quot;B&quot;,&quot;answerId&quot;:&quot;04d09263-ce3b-4775-a7ac-0bb8bee9ed30&quot;},{&quot;text&quot;:&quot;C&quot;,&quot;answerId&quot;:&quot;633c96e1-b85e-4597-85d3-3c4d0d8cbd5d&quot;},{&quot;text&quot;:&quot;D&quot;,&quot;answerId&quot;:&quot;3d9aa1aa-f086-460a-9e44-785a08c105a5&quot;}],&quot;isMultipleChoice&quot;:false,&quot;note&quot;:&quot;&quot;,&quot;submitButtonLabel&quot;:&quot;\u63d0\u4ea4&quot;,&quot;confirmMessageType&quot;:&quot;results&quot;,&quot;borderWidth&quot;:2,&quot;borderRadius&quot;:0,&quot;hasBoxShadow&quot;:false,&quot;hasOneResponsePerComputer&quot;:false,&quot;randomizeAnswers&quot;:false,&quot;width&quot;:100,&quot;pollStatus&quot;:&quot;open&quot;,&quot;closedPollState&quot;:&quot;show-results&quot;,&quot;hideBranding&quot;:false,&quot;buttonAlignment&quot;:&quot;list&quot;,&quot;apiPollData&quot;:{&quot;id&quot;:10735517,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;note&quot;:&quot;&quot;,&quot;settings&quot;:{&quot;title&quot;:&quot;&quot;,&quot;after_vote&quot;:&quot;results&quot;,&quot;after_message&quot;:&quot;&quot;,&quot;randomize_answers&quot;:false,&quot;restrict_vote_repeat&quot;:false,&quot;captcha&quot;:false,&quot;multiple_choice&quot;:false,&quot;redirect_url&quot;:&quot;&quot;,&quot;close_status&quot;:&quot;open&quot;,&quot;close_after&quot;:251827459962},&quot;answers&quot;:[{&quot;answer_text&quot;:&quot;A&quot;,&quot;id&quot;:49603181,&quot;client_id&quot;:&quot;72256ead-afa8-4a66-a397-316dccb01c84&quot;},{&quot;answer_text&quot;:&quot;B&quot;,&quot;id&quot;:49603182,&quot;client_id&quot;:&quot;04d09263-ce3b-4775-a7ac-0bb8bee9ed30&quot;},{&quot;answer_text&quot;:&quot;C&quot;,&quot;id&quot;:49603183,&quot;client_id&quot;:&quot;633c96e1-b85e-4597-85d3-3c4d0d8cbd5d&quot;},{&quot;answer_text&quot;:&quot;D&quot;,&quot;id&quot;:49603188,&quot;client_id&quot;:&quot;3d9aa1aa-f086-460a-9e44-785a08c105a5&quot;}],&quot;client_id&quot;:&quot;ba5d0cae-e9e1-4655-be3f-c5a10eec7741&quot;}}"></div>]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/02/04/testday6/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+<media:content medium="image" url="https://kevinzhw153.github.io/images/testday6.jpg"/>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day5（2021.2.3）</title>
+
+<link>https://kevinzhw.home.blog/2021/02/03/testday5/</link>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Wed, 03 Feb 2021 12:50:02 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=241</guid>
+
+
+-<description>
+
+-<![CDATA[]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<figure class="wp-block-image size-large is-resized"><img src="https://kevinzhw153.github.io/images/testday5.jpg" alt="" width="356" height="44" /></figure>
+
+
+<div class="align crowdsignal-poll-wrapper" data-crowdsignal-poll="{&quot;pollId&quot;:&quot;7db5ff94-7480-4e47-8eec-f0075c33205b&quot;,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;answers&quot;:[{&quot;text&quot;:&quot;A.\u56db\u6c27\u5316\u9507&quot;,&quot;answerId&quot;:&quot;3125ffce-efa9-4c5e-a3d7-668110477e6a&quot;},{&quot;text&quot;:&quot;B.\u56db\u6c27\u5316\u94f1&quot;,&quot;answerId&quot;:&quot;674277e2-4df6-4674-89c9-a9f4a9928f02&quot;},[]],&quot;isMultipleChoice&quot;:false,&quot;note&quot;:&quot;&quot;,&quot;submitButtonLabel&quot;:&quot;\u63d0\u4ea4&quot;,&quot;confirmMessageType&quot;:&quot;results&quot;,&quot;borderWidth&quot;:2,&quot;borderRadius&quot;:0,&quot;hasBoxShadow&quot;:false,&quot;hasOneResponsePerComputer&quot;:false,&quot;randomizeAnswers&quot;:false,&quot;width&quot;:100,&quot;pollStatus&quot;:&quot;open&quot;,&quot;closedPollState&quot;:&quot;show-results&quot;,&quot;hideBranding&quot;:false,&quot;buttonAlignment&quot;:&quot;list&quot;,&quot;apiPollData&quot;:{&quot;id&quot;:10734601,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;note&quot;:&quot;&quot;,&quot;settings&quot;:{&quot;title&quot;:&quot;&quot;,&quot;after_vote&quot;:&quot;results&quot;,&quot;after_message&quot;:&quot;&quot;,&quot;randomize_answers&quot;:false,&quot;restrict_vote_repeat&quot;:false,&quot;captcha&quot;:false,&quot;multiple_choice&quot;:false,&quot;redirect_url&quot;:&quot;&quot;,&quot;close_status&quot;:&quot;open&quot;,&quot;close_after&quot;:false},&quot;answers&quot;:[{&quot;answer_text&quot;:&quot;A.\u56db\u6c27\u5316\u9507&quot;,&quot;id&quot;:49600452,&quot;client_id&quot;:&quot;3125ffce-efa9-4c5e-a3d7-668110477e6a&quot;},{&quot;answer_text&quot;:&quot;B.\u56db\u6c27\u5316\u94f1&quot;,&quot;id&quot;:49600453,&quot;client_id&quot;:&quot;674277e2-4df6-4674-89c9-a9f4a9928f02&quot;}],&quot;client_id&quot;:&quot;7db5ff94-7480-4e47-8eec-f0075c33205b&quot;}}"></div>]]>
+</content:encoded>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+<media:content medium="image" url="https://kevinzhw153.github.io/images/testday5.jpg"/>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day4(2021.2.2)</title>
+
+<link>https://kevinzhw.home.blog/2021/02/02/testday4/</link>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Tue, 02 Feb 2021 02:28:44 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=234</guid>
+
+
+-<description>
+
+-<![CDATA[在地球上有一个点,在这个点上,可以先向南飞100米,再向东飞100米,再向北飞100米,此时回到了出发点!符合 &#8230; <a href="https://kevinzhw.home.blog/2021/02/02/testday4/" class="more-link">继续阅读<span class="screen-reader-text">“今日一题Day4(2021.2.2)”</span></a>]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<pre class="wp-block-preformatted">在地球上有一个点,在这个点上,可以先向南飞100米,再向东飞100米,再向北飞100米,此时回到了出发点!符合条件的点在哪里?</pre>
+
+
+<div class="align crowdsignal-poll-wrapper" data-crowdsignal-poll="{&quot;pollId&quot;:&quot;03cfe9b7-21ac-4717-9ed5-b41052ddb75d&quot;,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;answers&quot;:[{&quot;text&quot;:&quot;\u5357\u6781\u70b9&quot;,&quot;answerId&quot;:&quot;fe8b945b-d391-4efb-b5c5-29cfdbafc01c&quot;},{&quot;text&quot;:&quot;\u8d64\u9053&quot;,&quot;answerId&quot;:&quot;0cec0c74-db0e-4f38-a804-2bd523e3a3c5&quot;},{&quot;text&quot;:&quot;\u5317\u6781\u70b9&quot;,&quot;answerId&quot;:&quot;e293e1d1-8d3b-4960-b7de-21de32dc45a8&quot;}],&quot;isMultipleChoice&quot;:false,&quot;note&quot;:&quot;&quot;,&quot;submitButtonLabel&quot;:&quot;\u63d0\u4ea4&quot;,&quot;confirmMessageType&quot;:&quot;results&quot;,&quot;borderWidth&quot;:2,&quot;borderRadius&quot;:0,&quot;hasBoxShadow&quot;:false,&quot;hasOneResponsePerComputer&quot;:false,&quot;randomizeAnswers&quot;:false,&quot;width&quot;:100,&quot;pollStatus&quot;:&quot;open&quot;,&quot;closedPollState&quot;:&quot;show-results&quot;,&quot;hideBranding&quot;:false,&quot;buttonAlignment&quot;:&quot;list&quot;,&quot;apiPollData&quot;:{&quot;id&quot;:10733239,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;note&quot;:&quot;&quot;,&quot;settings&quot;:{&quot;title&quot;:&quot;&quot;,&quot;after_vote&quot;:&quot;results&quot;,&quot;after_message&quot;:&quot;&quot;,&quot;randomize_answers&quot;:false,&quot;restrict_vote_repeat&quot;:false,&quot;captcha&quot;:false,&quot;multiple_choice&quot;:false,&quot;redirect_url&quot;:&quot;&quot;,&quot;close_status&quot;:&quot;open&quot;,&quot;close_after&quot;:false},&quot;answers&quot;:[{&quot;answer_text&quot;:&quot;\u5357\u6781\u70b9&quot;,&quot;id&quot;:49595443,&quot;client_id&quot;:&quot;fe8b945b-d391-4efb-b5c5-29cfdbafc01c&quot;},{&quot;answer_text&quot;:&quot;\u8d64\u9053&quot;,&quot;id&quot;:49595444,&quot;client_id&quot;:&quot;0cec0c74-db0e-4f38-a804-2bd523e3a3c5&quot;},{&quot;answer_text&quot;:&quot;\u5317\u6781\u70b9&quot;,&quot;id&quot;:49595445,&quot;client_id&quot;:&quot;e293e1d1-8d3b-4960-b7de-21de32dc45a8&quot;}],&quot;client_id&quot;:&quot;03cfe9b7-21ac-4717-9ed5-b41052ddb75d&quot;}}"></div>]]>
+</content:encoded>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day3(2021.2.1)</title>
+
+<link>https://kevinzhw.home.blog/2021/02/01/testday3/</link>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Mon, 01 Feb 2021 10:18:05 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=224</guid>
+
+
+-<description>
+
+-<![CDATA[]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<figure class="wp-block-image size-large"><img src="https://kevinzhw153.github.io/images/testday3.jpg" alt="" /></figure>
+
+
+<div class="align crowdsignal-poll-wrapper" data-crowdsignal-poll="{&quot;pollId&quot;:&quot;d3ed1055-f68b-4254-9f33-89b52b40564a&quot;,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;answers&quot;:[{&quot;text&quot;:&quot;A&quot;,&quot;answerId&quot;:&quot;0a673b7f-1d04-4bfa-a850-cf9b2f02184f&quot;},{&quot;text&quot;:&quot;B&quot;,&quot;answerId&quot;:&quot;9412d81f-6fd3-4b50-ab7e-6e818feb5f9a&quot;},{&quot;text&quot;:&quot;C&quot;,&quot;answerId&quot;:&quot;d2030580-9a55-4909-9263-bf291489bcc0&quot;},{&quot;text&quot;:&quot;D&quot;,&quot;answerId&quot;:&quot;4f712b47-8eed-4672-b76c-8505af24c449&quot;}],&quot;isMultipleChoice&quot;:false,&quot;note&quot;:&quot;&quot;,&quot;submitButtonLabel&quot;:&quot;\u63d0\u4ea4&quot;,&quot;confirmMessageType&quot;:&quot;results&quot;,&quot;borderWidth&quot;:2,&quot;borderRadius&quot;:0,&quot;hasBoxShadow&quot;:false,&quot;hasOneResponsePerComputer&quot;:false,&quot;randomizeAnswers&quot;:false,&quot;width&quot;:100,&quot;pollStatus&quot;:&quot;open&quot;,&quot;closedPollState&quot;:&quot;show-results&quot;,&quot;hideBranding&quot;:false,&quot;buttonAlignment&quot;:&quot;list&quot;,&quot;apiPollData&quot;:{&quot;id&quot;:10748773,&quot;question&quot;:&quot;\u7b54\u6848&quot;,&quot;note&quot;:&quot;&quot;,&quot;settings&quot;:{&quot;title&quot;:&quot;&quot;,&quot;after_vote&quot;:&quot;results&quot;,&quot;after_message&quot;:&quot;&quot;,&quot;randomize_answers&quot;:false,&quot;restrict_vote_repeat&quot;:false,&quot;captcha&quot;:false,&quot;multiple_choice&quot;:false,&quot;redirect_url&quot;:&quot;&quot;,&quot;close_status&quot;:&quot;open&quot;,&quot;close_after&quot;:false},&quot;answers&quot;:[{&quot;answer_text&quot;:&quot;A&quot;,&quot;id&quot;:49649568,&quot;client_id&quot;:&quot;0a673b7f-1d04-4bfa-a850-cf9b2f02184f&quot;},{&quot;answer_text&quot;:&quot;B&quot;,&quot;id&quot;:49649569,&quot;client_id&quot;:&quot;9412d81f-6fd3-4b50-ab7e-6e818feb5f9a&quot;},{&quot;answer_text&quot;:&quot;C&quot;,&quot;id&quot;:49649570,&quot;client_id&quot;:&quot;d2030580-9a55-4909-9263-bf291489bcc0&quot;},{&quot;answer_text&quot;:&quot;D&quot;,&quot;id&quot;:49649571,&quot;client_id&quot;:&quot;4f712b47-8eed-4672-b76c-8505af24c449&quot;}],&quot;client_id&quot;:&quot;d3ed1055-f68b-4254-9f33-89b52b40564a&quot;}}"></div>]]>
+</content:encoded>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+<media:content medium="image" url="https://kevinzhw153.github.io/images/testday3.jpg"/>
+
+</item>
+
+
+-<item>
+
+<title>2021.1.31维基百科</title>
+
+<link>https://kevinzhw.home.blog/2021/01/31/wikipedia/</link>
+
+<comments>https://kevinzhw.home.blog/2021/01/31/wikipedia/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Sun, 31 Jan 2021 14:52:24 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[其他]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=220</guid>
+
+
+-<description>
+
+-<![CDATA[]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<div class="wp-block-file"><a href="https://kevinzhwhome.files.wordpress.com/2021/01/wikipedia_e9a696e9a1b5.pdf">wikipedia作文首页</a><a href="https://kevinzhwhome.files.wordpress.com/2021/01/wikipedia_e9a696e9a1b5.pdf" class="wp-block-file__button" download>下载</a></div>
+
+
+
+<p></p>
+]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/01/31/wikipedia/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+</item>
+
+
+-<item>
+
+<title>今日一题Day2(2021.1.31)</title>
+
+<link>https://kevinzhw.home.blog/2021/01/31/testday2/</link>
+
+<comments>https://kevinzhw.home.blog/2021/01/31/testday2/#respond</comments>
+
+
+-<dc:creator>
+
+-<![CDATA[kevin]]>
+</dc:creator>
+
+<pubDate>Sun, 31 Jan 2021 08:42:33 +0000</pubDate>
+
+
+-<category>
+
+-<![CDATA[未分类]]>
+</category>
+
+
+-<category>
+
+-<![CDATA[每日一题（周）]]>
+</category>
+
+<guid isPermaLink="false">http://kevinzhw.home.blog/?p=211</guid>
+
+
+-<description>
+
+-<![CDATA[]]>
+</description>
+
+
+-<content:encoded>
+
+-<![CDATA[
+<figure class="wp-block-image size-large"><img src="https://kevinzhw153.github.io/images/testday2.jpg" alt="" /></figure>
+
+
+<div class="align crowdsignal-poll-wrapper" data-crowdsignal-poll="{&quot;pollId&quot;:&quot;d0e12a17-99c5-45d8-9491-88cbc0e710f6&quot;,&quot;question&quot;:&quot;\u7b54\u6848\u8f93\u5728\u8fd9\u91cc&quot;,&quot;answers&quot;:[{&quot;text&quot;:&quot;A&quot;,&quot;answerId&quot;:&quot;761394e1-1e98-49e6-badc-14c0a8f5884c&quot;},{&quot;text&quot;:&quot;B&quot;,&quot;answerId&quot;:&quot;191bc160-d33a-4fcc-999b-ff096d909d9c&quot;},{&quot;text&quot;:&quot;C&quot;,&quot;answerId&quot;:&quot;10ef6578-392e-40fe-8778-ec05b3e31be1&quot;},{&quot;text&quot;:&quot;D&quot;,&quot;answerId&quot;:&quot;92f4934f-0a40-40d4-9972-79dd5836c917&quot;}],&quot;isMultipleChoice&quot;:false,&quot;note&quot;:&quot;&quot;,&quot;submitButtonLabel&quot;:&quot;\u63d0\u4ea4&quot;,&quot;confirmMessageType&quot;:&quot;results&quot;,&quot;borderWidth&quot;:2,&quot;borderRadius&quot;:0,&quot;hasBoxShadow&quot;:false,&quot;hasOneResponsePerComputer&quot;:false,&quot;randomizeAnswers&quot;:false,&quot;width&quot;:100,&quot;pollStatus&quot;:&quot;open&quot;,&quot;closedPollState&quot;:&quot;show-results&quot;,&quot;hideBranding&quot;:false,&quot;buttonAlignment&quot;:&quot;list&quot;,&quot;apiPollData&quot;:{&quot;id&quot;:10731350,&quot;question&quot;:&quot;\u7b54\u6848\u8f93\u5728\u8fd9\u91cc&quot;,&quot;note&quot;:&quot;&quot;,&quot;settings&quot;:{&quot;title&quot;:&quot;&quot;,&quot;after_vote&quot;:&quot;results&quot;,&quot;after_message&quot;:&quot;&quot;,&quot;randomize_answers&quot;:false,&quot;restrict_vote_repeat&quot;:false,&quot;captcha&quot;:false,&quot;multiple_choice&quot;:false,&quot;redirect_url&quot;:&quot;&quot;,&quot;close_status&quot;:&quot;open&quot;,&quot;close_after&quot;:false},&quot;answers&quot;:[{&quot;answer_text&quot;:&quot;A&quot;,&quot;id&quot;:49589388,&quot;client_id&quot;:&quot;761394e1-1e98-49e6-badc-14c0a8f5884c&quot;},{&quot;answer_text&quot;:&quot;B&quot;,&quot;id&quot;:49589389,&quot;client_id&quot;:&quot;191bc160-d33a-4fcc-999b-ff096d909d9c&quot;},{&quot;answer_text&quot;:&quot;C&quot;,&quot;id&quot;:49589390,&quot;client_id&quot;:&quot;10ef6578-392e-40fe-8778-ec05b3e31be1&quot;},{&quot;answer_text&quot;:&quot;D&quot;,&quot;id&quot;:49589391,&quot;client_id&quot;:&quot;92f4934f-0a40-40d4-9972-79dd5836c917&quot;}],&quot;client_id&quot;:&quot;d0e12a17-99c5-45d8-9491-88cbc0e710f6&quot;}}"></div>]]>
+</content:encoded>
+
+<wfw:commentRss>https://kevinzhw.home.blog/2021/01/31/testday2/feed/</wfw:commentRss>
+
+<slash:comments>0</slash:comments>
+
+
+-<media:content medium="image" url="https://2.gravatar.com/avatar/894dee2558cfbbe7b7c0dbe2ad51a427?s=96&d=wavatar&r=G">
+
+<media:title type="html">kevinzhw153</media:title>
+
+</media:content>
+
+<media:content medium="image" url="https://kevinzhw153.github.io/images/testday2.jpg"/>
+
+</item>
+
+</channel>
+
+</rss>
